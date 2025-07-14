@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/shoieb-dev?tab=repositories)
 
-- 📫 Reach me out via email: **shoieb.ctg@gmail.com**
+- 📫 Reach me out via email: **shoieb.dev@gmail.com**
 
 - 📄 Know about my details at [my portfolio site](https://shoieb-alam.web.app)
 
