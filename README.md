@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/shoieb-alam?tab=repositories)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/shoieb-dev?tab=repositories)
 
 - 📫 Reach me out via email: **shoieb.ctg@gmail.com**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/shoieb-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoieb-alam" height="30" width="40" /></a> <a href="https://dev.to/shoiebalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shoiebalam" height="30" width="40" /></a> <a href="https://fb.com/shoieb.ctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoieb.ctg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shoieb-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoieb-dev" height="30" width="40" /></a> <a href="https://dev.to/shoiebalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shoiebalam" height="30" width="40" /></a> <a href="https://fb.com/shoieb.ctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoieb.ctg" height="30" width="40" /></a>
 
 </p>
 
@@ -40,8 +40,8 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoieb-alam&show_icons=true&locale=en&layout=compact" alt="shoieb-alam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoieb-dev&show_icons=true&locale=en&layout=compact" alt="shoieb-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoieb-alam&" alt="shoieb-alam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoieb-dev&" alt="shoieb-dev" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoieb-alam&label=Profile%20views&color=0e75b6&style=flat" alt="shoieb-alam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoieb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shoieb-dev" /> </p>
